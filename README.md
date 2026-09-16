@@ -76,13 +76,16 @@ Open `EDA and Data Preprocessing.ipynb` in VS Code or Jupyter Notebook and run t
 ## 📜 License
 
 This project is distributed under the MIT License.
+
 ## 👩‍💻 Connect With Me
 
 <div align="center">
 
-**Kashaf** — BS Computer Science, LCWU'28
+**Kashaf Rasheed** — BS Computer Science, LCWU '28
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kashaf--cs-181717?style=for-the-badge&logo=github)](https://github.com/Kashaf-cs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashaf-rasheed-694a11416/)
 
 ⭐ **If you found this useful, drop a star!**
+
+</div>
